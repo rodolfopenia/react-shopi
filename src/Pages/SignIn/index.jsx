@@ -3,7 +3,7 @@ function SignIn() {
   return (
     <>
     <div className='bg-red-100'>
-      Hola mundo bb
+      Regístrate
     </div>
       
     </>

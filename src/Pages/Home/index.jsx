@@ -3,7 +3,7 @@ function Home() {
   return (
     <>
     <div className='bg-red-100'>
-      Hola mundo bb
+      Home
     </div>
       
     </>
