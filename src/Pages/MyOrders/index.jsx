@@ -1,6 +1,4 @@
-import './App.css'
-
-function App() {
+function MyOrders() {
 
   return (
     <>
@@ -12,4 +10,4 @@ function App() {
   )
 }
 
-export default App
+export default MyOrders
